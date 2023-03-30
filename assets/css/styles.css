@@ -7,9 +7,13 @@ html {
 }
 
 :root {
+    --family-public-sans: "Public Sans", sans-serif;
+    --family-poppins: "Poppins", sans-serif;
+    --primary-color: #152427;
 }
 
 body {
     font-size: 1.6rem;
     font-weight: 400;
+    font-family: var(--family-poppins);
 }
