@@ -6,6 +6,9 @@ html {
     font-size: 62.5%;
 }
 
+:root {
+}
+
 body {
     font-size: 1.6rem;
     font-weight: 400;
